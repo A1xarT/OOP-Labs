@@ -1,0 +1,19 @@
+﻿  argz.c
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(19,21): warning C4028: формальный параметр 1 отличается от объявления
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(19,34): warning C4028: формальный параметр 2 отличается от объявления
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(43,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(55,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(75,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(76,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(97,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(101,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(123,17): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(125,17): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(138,16): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(140,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(190,33): warning C4090: функция: разные квалификаторы "const"
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(192,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Docs\Labs\ООП\Lab1\Lab1OOP\argz.c(208,20): warning C4018: <: несоответствие типов со знаком и без знака
+  argztests.c
+  Создание кода...
+  Lab1OOP.vcxproj -> D:\Docs\Labs\ООП\Lab1\Lab1OOP\Debug\Lab1OOP.exe

@@ -1,0 +1,16 @@
+﻿  scanner.c
+F:\Docs\Labs\ООП\Lab2\scanner.c(15,26): warning C4013: 'malloc' undefined; assuming extern returning int
+F:\Docs\Labs\ООП\Lab2\scanner.c(15,63): warning C4312: 'type cast': conversion from 'int' to 'SCAN_INFO *' of greater size
+F:\Docs\Labs\ООП\Lab2\scanner.c(63,35): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+F:\Docs\Labs\ООП\Lab2\scanner.c(70,75): warning C4312: 'type cast': conversion from 'int' to 'SCAN_INFO *' of greater size
+F:\Docs\Labs\ООП\Lab2\scanner.c(73,51): warning C4312: 'type cast': conversion from 'int' to 'char **' of greater size
+F:\Docs\Labs\ООП\Lab2\scanner.c(75,33): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+F:\Docs\Labs\ООП\Lab2\scanner.c(76,72): warning C4312: 'type cast': conversion from 'int' to 'double *' of greater size
+F:\Docs\Labs\ООП\Lab2\scanner.c(77,60): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+F:\Docs\Labs\ООП\Lab2\scanner.c(133,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Docs\Labs\ООП\Lab2\scanner.c(142,32): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+F:\Docs\Labs\ООП\Lab2\scanner.c(62,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  scanner_db.c
+  Generating Code...
+F:\Docs\Labs\ООП\Lab2\scanner.c(169,36): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+  Lab2.vcxproj -> F:\Docs\Labs\ООП\Lab2\x64\Debug\Lab2.exe

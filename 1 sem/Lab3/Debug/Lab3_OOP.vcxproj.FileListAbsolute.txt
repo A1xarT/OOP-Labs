@@ -1,0 +1,2 @@
+D:\Docs\Labs\ООП\Lab3\Debug\Lab3_OOP.exe
+D:\Docs\Labs\ООП\Lab3\Debug\Lab3_OOP.pdb

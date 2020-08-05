@@ -1,0 +1,10 @@
+﻿  scanner.c
+F:\Docs\Labs\ООП\Lab2\scanner.c(15,26): warning C4013: 'malloc' undefined; assuming extern returning int
+F:\Docs\Labs\ООП\Lab2\scanner.c(133,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Docs\Labs\ООП\Lab2\scanner.c(169,36): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+  Generating code
+  0 of 10 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab2.vcxproj -> F:\Docs\Labs\ООП\Lab2\Release\Lab2.exe
